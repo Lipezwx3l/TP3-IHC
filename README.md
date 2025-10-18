@@ -1,4 +1,4 @@
-<h1 align="center">TP3 – IHC • APLICATIVO POMODORO</h1>
+<h1 align="center">TP3 – IHC • APLICATIVO FOCA & REVISA</h1>
 
 <p align="center">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
