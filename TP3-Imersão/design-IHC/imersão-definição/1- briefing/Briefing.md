@@ -7,4 +7,4 @@
 
 ## Cliente
 
-**Sergio Fernandes Mar Filho, estudante da Universidade Federal do Amazonas, atualmente está no 4° periodo do curso de Engenharia de Software** 
+**Sergio Fernandes Mar Filho, estudante da Universidade Federal do Amazonas, atualmente está no 4° periodo do curso de Engenharia de Software.** 
