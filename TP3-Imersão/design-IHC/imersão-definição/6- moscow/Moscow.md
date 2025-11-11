@@ -1,3 +1,3 @@
 # Priorização de Requisitos – MoSCoW
 
-<img src="https://photos.app.goo.gl/c9sqaEDKDQmpoioN7" alt="requisitos" width="600">
+<img src="https://github.com/user-attachments/assets/f51670d1-d15d-4bc4-ae5c-14378321e896" alt="requisitos" width="600">
