@@ -1,25 +1,3 @@
 # Priorização de Requisitos – MoSCoW
 
-# Must have (Obrigatórios)
-- Timer funcional com ciclos Pomodoro configuráveis.  
-- Interface limpa e acessível, com alto contraste e fontes ajustáveis.  
-- Opção de pausas programadas e retomada de sessão.  
-- Modo silencioso/offline para estudo em locais como biblioteca.  
-- Histórico básico de sessões para acompanhamento de tempo e foco.
-
-# Should Have (Importantes)
-- Integração com flashcards para revisão de conteúdo.  
-- Relatórios simples de desempenho e tempo de estudo.  
-- Notificações visuais e sonoras personalizáveis.  
-- Sincronização com calendário (para controle de metas e prazos).  
-
-# Could Have (Desejáveis)
-- Personalização de tema (modo claro/escuro).  
-- Elementos leves de gamificação, como badges de progresso.  
-- Estatísticas detalhadas com gráficos de produtividade.  
-- Suporte para múltiplos perfis de usuário.  
-
-# Won't have (Fora do Escopo Atual)
-- Chat entre usuários ou recursos de comunidade.  
-- Funções de rede social (seguidores, curtidas, etc.).  
-- Modo colaborativo de estudo em grupo.
+<img src=" https://export-download.canva.com/YHKW0/DAG4bCYHKW0/29/0/0001-8723956735300815314.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20251111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251111T004650Z&X-Amz-Expires=81467&X-Amz-Signature=7de0c5f5e307d5f244da4496e4adcae1a0295cc6b55dfcf9de276f9259f5a0b8&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Planning%2520a%2520Trip%2520Speaking%2520Activity%2520Whiteboard%2520in%2520Pink%2520and%2520Brown%2520Handdrawn%2520Style.png&response-expires=Tue%2C%2011%20Nov%202025%2023%3A24%3A37%20GMT " alt= "Requisitos" width= "300" heigth= "200">
