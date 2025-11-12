@@ -16,10 +16,10 @@
 
 <img width="607" height="215" alt="Captura de tela 2025-11-12 011709" src="https://github.com/user-attachments/assets/a7e4ee4b-8e69-4e41-8e07-49937b1748ad" />
 <img width="614" height="527" alt="image" src="https://github.com/user-attachments/assets/6950a75e-47df-4156-856d-0b5787f02960" />
+<img width="605" height="347" alt="Captura de tela 2025-11-12 165110" src="https://github.com/user-attachments/assets/5937c09d-9f14-4caa-962f-c175963b5497" />
 <img width="601" height="169" alt="Captura de tela 2025-11-12 011613" src="https://github.com/user-attachments/assets/8c1b1678-6901-4a5c-bd3f-e53426267e7b" />
 
 
-<img width="605" height="347" alt="Captura de tela 2025-11-12 165110" src="https://github.com/user-attachments/assets/5937c09d-9f14-4caa-962f-c175963b5497" />
 
 
 
