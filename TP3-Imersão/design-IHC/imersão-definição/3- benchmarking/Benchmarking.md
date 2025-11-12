@@ -1,4 +1,4 @@
 ## Avaliação dos itens a serem comparados
+<img src="<img width="623" height="355" alt="Captura de tela 2025-11-12 013106" src="https://github.com/user-attachments/assets/d1849d96-3425-4e8f-983e-2d4f34c67204" /> " alt="itens a serem comparados" width="300" height="200">
 
-<img src="<img width="606" height="514" alt="Captura de tela 2025-11-12 013611" src="https://github.com/user-attachments/assets/23e77d2a-63c4-413a-ab6c-34d0cb6c9aed" />
 
