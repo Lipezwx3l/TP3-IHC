@@ -15,9 +15,9 @@
 **E por último fizemos as comparações das informações coletadas**
 
 <img width="607" height="215" alt="Captura de tela 2025-11-12 011709" src="https://github.com/user-attachments/assets/a7e4ee4b-8e69-4e41-8e07-49937b1748ad" />
-<img width="602" height="341" alt="Captura de tela 2025-11-12 011254" src="https://github.com/user-attachments/assets/18dd83cd-a706-43c7-a035-a6c358787580" />
-<img width="601" height="427" alt="Captura de tela 2025-11-12 011430" src="https://github.com/user-attachments/assets/c1778508-6125-46ce-b508-d858214ca7e8" />
-<img width="601" height="169" alt="Captura de tela 2025-11-12 011613" src="https://github.com/user-attachments/assets/6f8b5ebc-ec26-4be3-a6d1-0342adf7f6fe" />
+<img width="598" height="519" alt="Captura de tela 2025-11-12 165036" src="https://github.com/user-attachments/assets/b934e525-8322-4d43-a6eb-cef8fe7827ba" />
+<img width="605" height="347" alt="Captura de tela 2025-11-12 165110" src="https://github.com/user-attachments/assets/5937c09d-9f14-4caa-962f-c175963b5497" />
+
 
 
 
