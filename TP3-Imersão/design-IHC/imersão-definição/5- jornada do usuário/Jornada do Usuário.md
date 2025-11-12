@@ -40,4 +40,4 @@ A jornada destaca sua evolução de um início ansioso para um uso confiante e p
 ---
 
  Observação:  
-As jornadas foram elaboradas com base nas informações do briefing com o cliente, na **matriz CSD, no **benchmarking e nas personas desenvolvidas na fase de Imersão e Definição do projeto (TP3 - Design de IHC).
+As jornadas foram elaboradas com base nas informações do briefing com o cliente, na **matriz CSD**, no **benchmarking** e nas **personas** desenvolvidas na fase de Imersão e Definição do projeto (TP3 - Design de IHC).
