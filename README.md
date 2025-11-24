@@ -10,3 +10,8 @@
   <b>Curso:</b> Engenharia de Software — ICET/UFAM<br>
   <b>Docente:</b> Prof. Dr. Andrey Antonio de Oliveira Rodrigues
 </p>
+
+<p align="center">
+  <b>Alunos:</b> Felipe Gabriel Almeida Pena; Livan do Nascimento Zacarias; Arthur Vinicius; Ian Gabriel; Renan Augusto; Jenner; Francisco.<br>
+  
+</p>
