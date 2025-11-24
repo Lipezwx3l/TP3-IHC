@@ -1,6 +1,8 @@
-# Mapa de Objetivos do usuário
+# Mapa de Objetivos do Usuário
 
-![WhatsApp Image 2025-11-22 at 19 18 09](https://github.com/user-attachments/assets/7e4f5e0f-988a-4f7e-a3b2-303f9dce3b3c)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7e4f5e0f-988a-4f7e-a3b2-303f9dce3b3c" alt="Mapas" width="700">
+</p>
 
 **1. User Timer Pomodoro (Estudar com método estruturado)** 
 
