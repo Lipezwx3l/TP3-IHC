@@ -1,4 +1,4 @@
-#* HTA - 01 **TIMER POMODOR**
+ HTA - 01 **TIMER POMODOR**
 ![Imagem do WhatsApp de 2025-11-24 à(s) 23 41 18_037d6f48](https://github.com/user-attachments/assets/a29cba9e-1c07-4835-af66-2a717b60f360)
  Esta HTA representa o processo realizado pelo usuário ao utilizar o Timer Pomodoro para organizar seu tempo de estudo. A tarefa principal (0) é dividida em sete subtarefas que começam com a configuração do tempo de foco (1) e das pausas (2), essenciais para estabelecer o ritmo de estudo.
 O usuário pode ativar notificações (3), opção que auxilia na percepção dos ciclos e mudanças de fase (foco, pausa curta e pausa longa).
