@@ -29,7 +29,7 @@ As cores não são apenas elementos estéticos — elas são ferramentas fundame
 </p>
 
 ### Explicação da escolha da cor:
-A cor vermelha foi adotada com base em fundamentos de psicologia das cores, identidade visual e diretrizes de acessibilidade. Psicologicamente, o vermelho estimula atenção, foco e ação, alinhando-se ao comportamento desejado no ciclo Pomodoro. Na identidade da marca, funciona como elemento de destaque de alta memorabilidade, garantindo consistência visual em temas claros e escuros. Em termos de acessibilidade, o vermelho aplicado oferece contraste adequado com fundos neutros e favorece a identificação de elementos interativos, atendendo às recomendações de legibilidade e contraste do WCAG.
+*A cor vermelha foi adotada com base em fundamentos de psicologia das cores, identidade visual e diretrizes de acessibilidade. Psicologicamente, o vermelho estimula atenção, foco e ação, alinhando-se ao comportamento desejado no ciclo Pomodoro. Na identidade da marca, funciona como elemento de destaque de alta memorabilidade, garantindo consistência visual em temas claros e escuros. Em termos de acessibilidade, o vermelho aplicado oferece contraste adequado com fundos neutros e favorece a identificação de elementos interativos, atendendo às recomendações de legibilidade e contraste do WCAG.*
 
 ## 2.Tela Metas Semanais e Conquistas (Gamificação)
 
@@ -38,7 +38,7 @@ A cor vermelha foi adotada com base em fundamentos de psicologia das cores, iden
 </p>
 
 ### Explicação da escolha da cor:
-O laranja é uma cor que resulta da combinação entre vermelho (energia) e amarelo (otimismo), criando um equilíbrio único de características psicológicas:
+*O laranja é uma cor que resulta da combinação entre vermelho (energia) e amarelo (otimismo), criando um equilíbrio único de características psicológicas.*
 
 ## **_Associações Positivas:_**
 
