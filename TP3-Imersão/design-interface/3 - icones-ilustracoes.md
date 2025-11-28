@@ -4,7 +4,7 @@ Foi realizada uma análise completa dos elementos visuais presentes nas telas do
 
 O objetivo foi mostrar como cada detalhe visual comunica uma intenção, dá feedback ao usuário e evita confusões durante o uso. As explicações foram feitas de maneira simples, destacando como o aplicativo “conversa” com a pessoa por meio dos ícones, cores e mudanças visuais — facilitando o entendimento sem depender de textos longos ou tutoriais.
 
-## Imagem
+## Tela 1
 <img width="418" height="590" alt="image" src="https://github.com/user-attachments/assets/5ed71c96-22eb-4e07-b470-a8042d04baed" />
 
 
@@ -61,7 +61,7 @@ Isso evita perguntas como:
 
  “Começou mesmo?”, “Está funcionando?”, “Para onde vou agora?”
 
-## Imagem
+## Tela 2
 <img width="290" height="291" alt="image" src="https://github.com/user-attachments/assets/4472a6b0-47a5-4dea-9d4f-9ccbd14024ba" />
 
 
@@ -112,7 +112,7 @@ O menu deixa claro onde o usuário está e como voltar.
 Isso evita dúvida e frustração.
 Evita confusão.
 
-## Imagem
+## Tela 3
 <img width="411" height="105" alt="image" src="https://github.com/user-attachments/assets/a5588262-0d14-4998-8f3c-db46de3a6b6c" />
 
 
@@ -197,7 +197,7 @@ O usuário não precisa pensar, nem se perguntar:
 “Como crio uma nova tarefa?”
 
 
-## Imagem
+## Tela 4
 <img width="418" height="221" alt="image" src="https://github.com/user-attachments/assets/83d7b663-cdd8-4ba3-9209-9ba30d34ae50" />
 
 
@@ -250,7 +250,7 @@ O usuário não precisa pensar muito:
  Ele vê o círculo → entende que marca tarefa.
 Sem precisar procurar ajuda ou tutorial.
 
-## Imagem
+## Tela 5
 <img width="426" height="520" alt="image" src="https://github.com/user-attachments/assets/d36f6031-6c67-4504-8029-719bfc4b000d" />
 
 
@@ -317,7 +317,7 @@ Assim, o usuário não fica com dúvidas como:
  
  A tela praticamente “conversa” com a pessoa, guiando pelo visual.
 
-## Imagem
+## Tela 6
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ee6d267-3998-4bb3-83fe-202e7820d398" />
 
 
@@ -373,7 +373,7 @@ O usuário entende facilmente o que está avançando, o que falta e o que cada m
 
  Não fica perdido sobre seu progresso.
 
-## Imagem
+## Tela 7
 <img width="445" height="510" alt="image" src="https://github.com/user-attachments/assets/f2d78686-0479-41e8-b0f7-6c0042aea5f9" />
 
 
@@ -430,5 +430,11 @@ O usuário não precisa ler para saber qual som é qual.
  “Que som é esse?” ou “Qual botão liga?”
 
 
+## Conclusão
 
+A análise realizada mostrou que o aplicativo utiliza seus ícones, cores, ilustrações e sinais visuais de forma consistente e eficiente para comunicar com o usuário. Cada tela foi projetada para ser compreendida “de primeira”, sem esforço, usando signos que indicam ações, estados e objetivos de maneira clara.
+
+A consistência semântica — ou seja, manter o mesmo significado para cada ícone em todas as telas — facilita o aprendizado e evita confusão. Os signos estáticos organizam a interface, os signos dinâmicos mostram mudanças e respostas às ações, e os signos metalinguísticos ajudam a explicar como usar cada parte do sistema sem depender de instruções extras.
+
+Com tudo isso, o aplicativo consegue “conversar” visualmente com o usuário, guiando suas ações, mostrando o que está acontecendo e deixando a navegação mais intuitiva. A análise comprovou que os elementos visuais não são apenas decorativos: eles têm função, intenção e tornam a experiência mais clara e agradável.
 
