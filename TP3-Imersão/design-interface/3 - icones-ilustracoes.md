@@ -1,6 +1,6 @@
 # Introdução
 
-foi realizada uma análise completa dos elementos visuais presentes nas telas do aplicativo, com foco na forma como os ícones, ilustrações e estruturas da interface ajudam o usuário a entender e navegar pelo sistema. Cada imagem foi examinada considerando quatro aspectos principais: estilo dos ícones, consistência semântica, signos (estáticos, dinâmicos e metalinguísticos) e comunicabilidade.
+Foi realizada uma análise completa dos elementos visuais presentes nas telas do aplicativo, com foco na forma como os ícones, ilustrações e estruturas da interface ajudam o usuário a entender e navegar pelo sistema. Cada imagem foi examinada considerando quatro aspectos principais: estilo dos ícones, consistência semântica, signos (estáticos, dinâmicos e metalinguísticos) e comunicabilidade.
 
 O objetivo foi mostrar como cada detalhe visual comunica uma intenção, dá feedback ao usuário e evita confusões durante o uso. As explicações foram feitas de maneira simples, destacando como o aplicativo “conversa” com a pessoa por meio dos ícones, cores e mudanças visuais — facilitando o entendimento sem depender de textos longos ou tutoriais.
 
