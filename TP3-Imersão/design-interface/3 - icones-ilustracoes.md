@@ -42,13 +42,13 @@ O botão mudando para “Pausar”
 Isso mostra que houve mudança, ou seja, é um feedback visual.
 
 - Signos Metalinguísticos
-- 
+ 
 O próprio “25:00” já explica o ciclo Pomodoro
 
 As abas dizem exatamente o que fazem
 
 - Justificativa pela Comunicabilidade
-- 
+ 
 Aqui os ícones ajudam o usuário a perceber:
 
 o que fazer (play)
