@@ -27,15 +27,15 @@ São os elementos que não mudam sozinho:
 - “0/8”
 
 Eles mostram a estrutura da tela e deixam claro qual é o objetivo principal.
- Signos Dinâmicos
-O número das sessões aumentando
 
+ -Signos Dinâmicos
+O número das sessões aumentando
 
 A barrinha preenchendo
  Esses elementos mostram que algo aconteceu, então o usuário percebe que sua ação teve efeito.
 
 
- Signos Metalinguísticos
+ - Signos Metalinguísticos
 O texto “Meta diária — 8 sessões”
 
 A visualização “0/8”
