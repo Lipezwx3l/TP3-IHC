@@ -28,7 +28,7 @@ São os elementos que não mudam sozinho:
 
 Eles mostram a estrutura da tela e deixam claro qual é o objetivo principal.
 
- -Signos Dinâmicos
+ - Signos Dinâmicos
 O número das sessões aumentando
 
 A barrinha preenchendo
