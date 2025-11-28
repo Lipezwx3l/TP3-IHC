@@ -29,9 +29,11 @@ São os elementos que não mudam sozinho:
 Eles mostram a estrutura da tela e deixam claro qual é o objetivo principal.
 
  - Signos Dinâmicos
+ - 
 O número das sessões aumentando
 
 A barrinha preenchendo
+
  Esses elementos mostram que algo aconteceu, então o usuário percebe que sua ação teve efeito.
 
 
