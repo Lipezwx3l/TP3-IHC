@@ -5,52 +5,61 @@ foi realizada uma análise completa dos elementos visuais presentes nas telas do
 O objetivo foi mostrar como cada detalhe visual comunica uma intenção, dá feedback ao usuário e evita confusões durante o uso. As explicações foram feitas de maneira simples, destacando como o aplicativo “conversa” com a pessoa por meio dos ícones, cores e mudanças visuais — facilitando o entendimento sem depender de textos longos ou tutoriais.
 
 ## Imagem
-<img width="426" height="520" alt="image" src="https://github.com/user-attachments/assets/b3cf9cc8-fd67-4c85-a70e-7df18e2a56a3" />
+<img width="418" height="590" alt="image" src="https://github.com/user-attachments/assets/5ed71c96-22eb-4e07-b470-a8042d04baed" />
+
 
 
 ## Explicação:
-Os ícones dessa tela são simples porque a função deles é facilitar a leitura e não desviar a atenção.
- O relógio, por exemplo, não precisa de detalhes: só o desenho básico já faz o usuário entender que aquilo tem a ver com tempo.
- O uso da cor vermelha também é uma escolha importante: vermelho chama atenção, então torna óbvio onde o usuário precisa olhar primeiro.
 
-- Consistência Semântica 
-O relógio aparece em outras telas também sempre relacionado ao tempo, então o usuário aprende rapidamente o significado.
- O mesmo vale para o menu: onde ele aparecer, sempre vai significar “abrir opções”.
- Isso evita aprendizado repetido. A pessoa não precisa descobrir o significado toda vez.
+- Estilo
 
-- Signos Estáticos
-São os elementos que não mudam sozinho:
-- Relógio
+O visual simples do temporizador ajuda porque o foco da tela é justamente o tempo passando.
 
-- Cartão da meta
-
-- “0/8”
-
-Eles mostram a estrutura da tela e deixam claro qual é o objetivo principal.
-
- - Signos Dinâmicos
- - 
-O número das sessões aumentando
-
-A barrinha preenchendo
-
- Esses elementos mostram que algo aconteceu, então o usuário percebe que sua ação teve efeito.
-
-
- - Signos Metalinguísticos
-O texto “Meta diária — 8 sessões”
-
-A visualização “0/8”
-
-Esses elementos funcionam como explicação visual. Não precisa de tutorial: a tela já se explica.
+ Um círculo gigante evita distração e deixa claro o que é para olhar.
  
-- Justificativa pela Comunicabilidade 
-Os ícones aqui servem para comunicar intenções.
- O relógio comunica que a tela é sobre tempo.
- O cartão vermelho comunica prioridade.
-Assim, o usuário não fica com dúvidas como:
- “Isso aqui é sobre o quê?” ou “Por onde começo?”
- A tela praticamente “conversa” com a pessoa, guiando pelo visual.
+- Consistência Semântica
+
+O ícone de play sempre significa começar.
+
+ Isso permite que o usuário nem precise pensar: ele já sabe que apertar ali dá início ao temporizador.
+ 
+- Signos Estáticos
+
+Círculo
+
+Número do tempo
+
+Abas “Sons” e “Metas”
+
+Eles dizem: “Essa tela funciona assim”.
+
+- Signos Dinâmicos
+  
+O círculo enchendo
+
+O botão mudando para “Pausar”
+
+Isso mostra que houve mudança, ou seja, é um feedback visual.
+
+- Signos Metalinguísticos
+- 
+O próprio “25:00” já explica o ciclo Pomodoro
+
+As abas dizem exatamente o que fazem
+
+- Justificativa pela Comunicabilidade
+- 
+Aqui os ícones ajudam o usuário a perceber:
+
+o que fazer (play)
+
+o que está acontecendo (círculo preenchendo)
+
+quando algo mudou (botão trocando)
+
+Isso evita perguntas como:
+
+ “Começou mesmo?”, “Está funcionando?”, “Para onde vou agora?”
 
 
 # Conclusão
