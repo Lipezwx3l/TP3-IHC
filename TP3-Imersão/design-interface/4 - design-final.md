@@ -1,6 +1,8 @@
 # Introdução
 Nesta seção são apresentadas as telas finais do protótipo do aplicativo Foca & Revisa, destacando sua proposta visual, funcionalidade e alinhamento com princípios de usabilidade, acessibilidade e comunicabilidade.
+
 Lembrando que as telas representam visualmente as funcionalidades do aplicativo, mas apenas a navegação entre telas e a alternância de tema estão funcionando. As demais ações, como iniciar o timer, tocar sons ou salvar metas, são simuladas apenas visualmente, pois ainda não foram implementadas, mas irei explicar as telas como se ja estivessem implementadas todas as funcionalidades.
+
 As interfaces foram desenvolvidas com foco em:
 
 ✔ Experiência Intuitiva – o usuário compreende facilmente como interagir com os elementos da tela.
