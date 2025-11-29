@@ -48,7 +48,8 @@ Tela para registrar e organizar os objetivos de estudo.
 | **Barra inferior de navegação**                      | Permite voltar para Início ou Metas     | Consistência de navegação em todas as telas          |
 
 # 3. Tela de Metas e Organização
-![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 50_d6118703](https://github.com/user-attachments/assets/129e47ba-1dd6-4c04-9ae9-179f27e762e1)
+![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 50_d6118703](https://github.com/user-attachments/assets/129e47ba-1dd6-4c04-9ae9-179f27e762e1)           |                 ![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 27_5040751f](https://github.com/user-attachments/assets/3f2cf7af-e14a-46ba-bf38-cb5fe300c061)
+
 
 Figura 3 - Tela de Metas,
 Permite registrar, escolher e visualizar metas de estudo do dia
@@ -59,12 +60,20 @@ Nessa lista, o usuário pode marcar quais tarefas ele realmente pretende cumprir
 
 Como isso se conecta com a Tela Inicial (Timer Pomodoro):
 
-Quando o usuário marca uma tarefa como meta (exemplo: Revisar Conteúdo) e salva, ela passa a ser considerada uma meta ativa do dia;
+- Quando o usuário marca uma tarefa como meta (exemplo: Revisar Conteúdo) e salva, ela passa a ser considerada uma meta ativa do dia;
 
-Na Tela Inicial, essa meta aparece no contador de progresso como 1/10, indicando que uma meta foi definida;
+- Na Tela Inicial, essa meta aparece no contador de progresso como 1/10, indicando que uma meta foi definida;
 
-Se o usuário selecionar três metas na tela de tarefas, a Tela Inicial passa a exibir 3/10;
+- Se o usuário selecionar três metas na tela de tarefas, a Tela Inicial passa a exibir 3/10;
 
-O sistema permite um limite máximo de 10 metas por dia, ajudando a manter organização sem sobrecarregar o usuário.
+- O sistema permite um limite máximo de 10 metas por dia, ajudando a manter organização sem sobrecarregar o usuário.
+
+| Aspecto                 | Contribuição                                                        |
+| ----------------------- | ------------------------------------------------------------------- |
+| Planejamento            | Ajuda a organizar estudos com prioridade e clareza                  |
+| Motivação               | O contador de metas (1/10, 4/10...) gera senso de progresso         |
+| Comunicação entre telas | Mostra ao usuário que as escolhas têm efeito direto na tela inicial |
+| Feedback visual         | O número de metas aparece automaticamente no Pomodoro               |
+
 
 
