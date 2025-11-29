@@ -11,7 +11,7 @@ O objetivo foi mostrar como cada detalhe visual comunica uma intenção, dá fee
 
 ## Explicação:
 
-- Estilo
+- Estilo Ⓜ
 
 O visual simples do temporizador ajuda porque o foco da tela é justamente o tempo passando.
 
@@ -19,13 +19,13 @@ O visual simples do temporizador ajuda porque o foco da tela é justamente o tem
  
 - Consistência Semântica
 
-O ícone de play sempre significa começar.
+O ícone de play sempre significa começar. ▶
 
  Isso permite que o usuário nem precise pensar: ele já sabe que apertar ali dá início ao temporizador.
  
 - Signos Estáticos
 
-Círculo
+Círculo 🔴
 
 Número do tempo
 
