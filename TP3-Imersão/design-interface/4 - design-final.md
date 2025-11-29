@@ -75,5 +75,18 @@ Como isso se conecta com a Tela Inicial (Timer Pomodoro):
 | Comunicação entre telas | Mostra ao usuário que as escolhas têm efeito direto na tela inicial |
 | Feedback visual         | O número de metas aparece automaticamente no Pomodoro               |
 
+# 4. Modo Escuro - Mudança de visual
+![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 18_a2d773be](https://github.com/user-attachments/assets/a4652611-2162-4044-8e56-df301656bdb7)
 
+Figura 4 - Modo Escuro,
+O Modo Escuro está disponível em todas as telas do aplicativo (Timer, Sons e Metas) e pode ser ativado a qualquer momento pelo usuário.
 
+É importante destacar que, no modo escuro, todas as funcionalidades permanecem exatamente as mesmas que no modo claro — o que muda é apenas o aspecto visual da interface, com o objetivo de proporcionar:
+
+✔ Conforto visual durante o uso noturno ou em ambientes com pouca luz;
+
+✔ Redução do brilho excessivo, ajudando a evitar fadiga ocular;
+
+✔ Melhor contraste entre texto, ícones e fundo;
+
+✔ Experiência mais acessível e personalizada.
