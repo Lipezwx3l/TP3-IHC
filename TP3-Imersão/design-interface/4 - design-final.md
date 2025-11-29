@@ -17,7 +17,6 @@ As interfaces foram desenvolvidas com foco em:
 ![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 27_160e36cf](https://github.com/user-attachments/assets/bbcd9973-d1e2-4844-8bab-0f7b9055a507)
 
 Figura 1 - Timer Pomodoro
-
 A tela inicial concentra a principal funcionalidade do app: a técnica Pomodoro para focar nos estudos.
 ## Elementos principais:
 
@@ -38,14 +37,20 @@ A tela inicial concentra a principal funcionalidade do app: a técnica Pomodoro 
 ![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 37_e234684f](https://github.com/user-attachments/assets/d0faa0da-629b-4d81-9931-285413730bc0)
 
 Figura 2 - Tela de Sons
-
 Tela para registrar e organizar os objetivos de estudo.
 
-| Elemento                                             | Função                                  | Justificativa de design                              |
+| Elemento                                             |            Função                       | Justificativa de design               |
 | ---------------------------------------------------- | --------------------------------------- | ---------------------------------------------------- |
 | **Ícone de alto-falante + título “Sons Ambientais”** | Identifica a função da tela             | Comunicação imediata e intuitiva                     |
 | **Cards com imagens (fogo, mar, chuva, vento)**      | Representam os tipos de som disponíveis | Uso de metáforas visuais (Design semântico)          |
 | **Botão Play ▶** em cada card                        | Simula acionamento do som               | Indica claramente a ação associada a cada card       |
 | **Layout em grade (2x2)**                            | Organização dos cards                   | Facilita toque e visualização; evita poluição visual |
 | **Barra inferior de navegação**                      | Permite voltar para Início ou Metas     | Consistência de navegação em todas as telas          |
+
+# 3. Tela de Metas e Organização
+![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 50_d6118703](https://github.com/user-attachments/assets/129e47ba-1dd6-4c04-9ae9-179f27e762e1)
+
+Figura 3 - Tela de Metas
+Permite registrar, escolher e visualizar metas de estudo do dia
+
 
