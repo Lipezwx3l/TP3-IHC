@@ -13,6 +13,8 @@ Dessa forma, as microinterações não apenas embelezam a interface, mas guiam o
 
 Figura - mostrando todas as telas e interações delas.
 
+-- Link abaixo é o prototipo do Aplicativo ja com as interações.
+
 https://www.figma.com/proto/NtN7ztgbgPQOuj00QB6ZfB/Design-Final?node-id=0-1&t=J5XiMXIlrM6aZ0NO-1
 
 Mesmo sem funcionalidades completas implementadas, o protótipo apresenta microinterações essenciais que tornam a experiência mais fluida, compreensível e interativa. Essas microinterações estão relacionadas principalmente à mudança de telas e à alternância visual (modo claro e escuro), preservando a estrutura, a usabilidade e a comunicação entre os elementos.
