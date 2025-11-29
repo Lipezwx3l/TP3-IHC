@@ -7,427 +7,562 @@ O objetivo foi mostrar como cada detalhe visual comunica uma intenção, dá fee
 ## Tela 1
 <img width="418" height="590" alt="image" src="https://github.com/user-attachments/assets/5ed71c96-22eb-4e07-b470-a8042d04baed" />
 
+# 📝 Explicação
 
+---
 
-## Explicação:
+## Ⓜ Estilo
 
-- Estilo Ⓜ
+O visual simples do temporizador funciona porque o foco da tela é **o tempo passando**.
 
-O visual simples do temporizador ajuda porque o foco da tela é justamente o tempo passando.
+* Um **círculo grande** evita distrações.
+* Deixa imediatamente claro **onde o usuário deve olhar**.
 
- Um círculo gigante evita distração e deixa claro o que é para olhar.
- 
-- Consistência Semântica
+---
 
-O ícone de play sempre significa começar. ▶
+## 🧩 Consistência Semântica
 
- Isso permite que o usuário nem precise pensar: ele já sabe que apertar ali dá início ao temporizador.
- 
-- Signos Estáticos
+O ícone **▶ Play** sempre significa **começar**.
 
-Círculo 🔴
+Isso reduz esforço cognitivo: o usuário **não precisa pensar**, ele já entende que tocar no ▶ inicia o temporizador.
 
-Número do tempo
+---
 
-Abas “Sons” e “Metas”
+## 🔒 Signos Estáticos
 
-Eles dizem: “Essa tela funciona assim”.
+Elementos que **não mudam** e ajudam a entender a estrutura da tela:
 
-- Signos Dinâmicos
-  
-O círculo enchendo
+* Círculo 🔴
+* Número do tempo (ex.: *25:00*)
+* Abas: **Sons** e **Metas**
 
-O botão mudando para “Pausar”
+Eles comunicam:
 
-Isso mostra que houve mudança, ou seja, é um feedback visual.
+> “É assim que esta tela funciona.”
 
-- Signos Metalinguísticos
- 
-O próprio “25:00” já explica o ciclo Pomodoro
+---
 
-As abas dizem exatamente o que fazem
+## 🔄 Signos Dinâmicos
 
-- Justificativa pela Comunicabilidade
- 
-Aqui os ícones ajudam o usuário a perceber:
+Elementos que **mudam** e indicam ação ou progresso:
 
-o que fazer (play)
+* O **círculo enchendo**
+* O botão mudando de **Play ▶** para **Pausar ⏸**
 
-o que está acontecendo (círculo preenchendo)
+Essas mudanças fornecem **feedback visual imediato**.
 
-quando algo mudou (botão trocando)
+---
+
+## 🗂 Signos Metalinguísticos
+
+* O número **25:00** já explica, por si só, o **ciclo Pomodoro**.
+* As abas dizem exatamente o que fazem, reforçando a compreensão da interface.
+
+---
+
+## 🎯 Justificativa pela Comunicabilidade
+
+Os ícones e interações ajudam o usuário a perceber:
+
+* **O que fazer:** ▶ Play
+* **O que está acontecendo:** círculo sendo preenchido
+* **Quando algo mudou:** botão alternando para “Pausar”
 
 Isso evita perguntas como:
 
- “Começou mesmo?”, “Está funcionando?”, “Para onde vou agora?”
+* “Começou mesmo?”
+* “Está funcionando?”
+* “Para onde vou agora?”
+
+---
+
 
 ## Tela 2
 <img width="290" height="291" alt="image" src="https://github.com/user-attachments/assets/4472a6b0-47a5-4dea-9d4f-9ccbd14024ba" />
 
 
+# 📝 Explicação
 
+---
 
-## Explicação
-Estilo
-Ícones outline simples para leitura rápida.
+## 🎨 Estilo
 
-- Consistência Semântica
-Casinha = início
+Ícones *outline* simples permitem **leitura rápida** e reduzem sobrecarga visual.
 
-Alvo = metas
+---
 
-Som = sons
+## 🧩 Consistência Semântica
 
-Item vermelho = onde estou
+Os ícones mantêm **significados fixos**, facilitando navegação intuitiva:
 
-Funções dos ícones se repetem em todas as telas
+* 🏠 **Casinha** = início
+* 🎯 **Alvo** = metas
+* 🔊 **Som** = sons
+* 🔴 **Item vermelho** = onde estou
+* ❌ **X** = sempre fecha
 
-X sempre fecha
+A lógica é consistente:
 
-Item marcado mostra onde está
+> *As funções e significados se repetem em todas as telas. Nada muda inesperadamente.*
 
-Esses significados não mudam nunca.
+O item marcado mostra **exatamente onde o usuário está**.
 
-- Signos Estáticos
+---
 
-Estrutura fixa
+## 🔒 Signos Estáticos
 
-Ícones iguais
+Elementos que **não mudam**:
 
-- Signos Dinâmicos
- 
-Item marcado mudando de cor
+* Estrutura fixa do menu
+* Ícones sempre iguais
 
-Fechamento do menu
+Eles criam estabilidade e ajudam o usuário a reconhecer padrões rapidamente.
 
-Mostra em qual página a pessoa está.
+---
 
-- Signos Metalinguísticos
-Textos ao lado explicam o ícone
+## 🔄 Signos Dinâmicos
 
-Não geram dúvidas
+Elementos que **mudam para comunicar ação ou estado**:
 
-- Comunicabilidade (explicação)
-O menu deixa claro onde o usuário está e como voltar.
-Isso evita dúvida e frustração.
-Evita confusão.
+* Item marcado muda de cor
+* Menu se fecha ao selecionar uma opção
+
+Esses sinais mostram **em qual página o usuário está** e reforçam o fluxo de navegação.
+
+---
+
+## 🗂 Signos Metalinguísticos
+
+* Textos ao lado dos ícones **explicam sua função**
+* Evitam ambiguidades e reduzem dúvidas
+
+---
+
+## 💬 Comunicabilidade
+
+O menu deixa claro:
+
+* **Onde o usuário está**
+* **Como voltar**
+* **Para onde pode ir**
+
+Isso reduz confusão, evita frustração e melhora a experiência geral de uso.
+
+---
+
 
 ## Tela 3
 <img width="411" height="105" alt="image" src="https://github.com/user-attachments/assets/a5588262-0d14-4998-8f3c-db46de3a6b6c" />
 
+# 📝 Explicação
 
+---
 
+## 🗂 Campo **“Tarefas de hoje”** (Adicionar atividade)
 
-## Explicação
+---
 
- Campo “Tarefas de hoje” (Adicionar atividade)
- 
-- Estilo dos ícones e elemento
+## 🎨 Estilo dos Ícones e Elementos
 
 A tela usa elementos visuais simples e diretos:
 
-O símbolo “+” é pequeno, discreto e universalmente entendido como “adicionar”.
+* O símbolo **“+”** é pequeno, discreto e universalmente entendido como *adicionar*.
+* O botão **vermelho “Adicionar”** ganha destaque e orienta rapidamente onde o usuário deve clicar.
+* A **caixa de digitação**, com bordas arredondadas e contorno vermelho, indica foco ou seleção.
 
-O botão vermelho “Adicionar” ganha destaque e deixa claro onde o usuário deve clicar.
+Esse estilo facilita leitura e reduz esforço:
 
-A caixa de digitação tem bordas arredondadas e um contorno vermelho que indica foco ou seleção.
+> O usuário entende imediatamente o que deve fazer.
 
-Esse estilo facilita a leitura e reduz esforço: a pessoa sabe imediatamente o que fazer.
+---
 
-- Consistência Semântica
-  
-A interface mantém o mesmo significado em todas as telas:
+## 🧩 Consistência Semântica
 
-O “+” sempre significa adicionar algo.
+A interface mantém significados coerentes em todas as telas:
 
-O vermelho sempre destaca ação ou foco.
+* **“+”** sempre significa adicionar.
+* **Vermelho** sempre indica ação, foco ou destaque.
+* O campo com borda vermelha sinaliza que está **ativo**.
 
-O campo com borda vermelha mostra que está ativo.
+Essa repetição cria familiaridade e evita confusão:
 
-Essa repetição permite que o usuário aprenda uma vez e reconheça em todo o app, sem confusão.
+> O usuário aprende uma vez e reconhece em todo o aplicativo.
 
-- Signos Estáticos
+---
 
-São os elementos que não mudam sozinhos:
+## 🔒 Signos Estáticos
 
-O texto “Tarefas de hoje”
+Elementos que **não mudam sozinhos**:
 
-O símbolo “+”
+* Texto **“Tarefas de hoje”**
+* Símbolo **“+”**
+* Campo de texto
+* Botão **“Adicionar”**
 
-O campo de texto
+Eles formam a estrutura da tela e deixam claro o propósito da seção.
 
-O botão “Adicionar”
+---
 
-Eles formam a estrutura da tela e mostram claramente o propósito da seção.
+## 🔄 Signos Dinâmicos
 
-- Signos Dinâmicos
-  
-São os elementos que mudam quando o usuário interage:
+Elementos que **mudam ao interagir**:
 
-A borda do campo fica vermelha quando o usuário toca ou digita ali (feedback).
+* A borda do campo fica **vermelha** quando o usuário toca ou digita (feedback).
+* O botão **“Adicionar”** pode mudar de estado após o clique (mais claro ou mais escuro).
 
-O botão “Adicionar” pode mudar de estado após clicar (ex.: ficar mais claro ou escuro).
+Esses sinais confirmam:
 
-Esses sinais mostram para o usuário que o sistema entendeu sua ação.
+> *“O sistema entendeu sua ação.”*
 
-- Signos Metalinguísticos
-  
-Esses signos “explicam como usar” a própria tela:
+---
 
-O texto dentro do campo: “Fazer uma atividade” funciona como instrução visual.
+## 🗂 Signos Metalinguísticos
 
-O “+” ao lado do título reforça que a funcionalidade ali é adicionar tarefas.
+Signos que **explicam como usar a própria tela**:
 
-Ou seja: a própria tela ensina a usar o recurso sem precisar de tutorial.
+* O texto dentro do campo — **“Fazer uma atividade”** — funciona como instrução direta.
+* O **“+”** ao lado do título reforça que ali se **adicionam tarefas**.
 
-- Justificativa pela Comunicabilidade
-A comunicabilidade aqui é muito clara:
+A tela se explica sozinha, sem necessidade de tutorial.
 
-O campo mostra onde digitar.
+---
 
-O botão mostra onde confirmar.
+## 💬 Justificativa pela Comunicabilidade
 
-O texto instrui o que escrever.
+A comunicabilidade é clara e eficiente:
 
-O “+” reforça o propósito da tela.
+* O campo mostra **onde digitar**.
+* O botão mostra **onde confirmar**.
+* O texto instrui **o que escrever**.
+* O **“+”** reforça o propósito da ação.
 
-O usuário não precisa pensar, nem se perguntar:
-“O que faço agora?”
+O usuário não precisa se perguntar:
 
-“Como crio uma nova tarefa?”
+* “O que faço agora?”
+* “Como crio uma nova tarefa?”
+
+Tudo é comunicado diretamente pela interface.
+
+---
+
 
 
 ## Tela 4
 <img width="418" height="221" alt="image" src="https://github.com/user-attachments/assets/83d7b663-cdd8-4ba3-9209-9ba30d34ae50" />
 
 
+# 📝 Explicação
 
+---
 
-## Explicação
+## 🗂 Lista de Tarefas
 
- Lista de Tarefas
+---
 
--  Estilo
-O ícone de “+” é universal. É usado em apps, sites, celulares.
+## 🎨 Estilo
 
- Isso facilita porque o usuário já tem essa associação na cabeça.
- 
-- Consistência Semântica
- 
-O círculo vazio sempre significa tarefa “não feita”.
+O ícone **“+”** é universal — aparece em aplicativos, sites e sistemas no geral.
 
- Quando o mesmo círculo aparece preenchido, sempre significa “feita”.
-Essa lógica é repetida em todo o app.
+Isso facilita o uso porque:
 
-- Signos Estáticos
-  
-Lista
+> O usuário já possui essa associação mental com *adicionar algo*.
 
-bolinhas para marcação 
+---
 
-Campo de digitar
+## 🧩 Consistência Semântica
 
-Mostram como a tela é organizada.
+A interface usa a mesma lógica em todo o app:
 
-- Signos Dinâmicos
-- 
-Borda que fica vermelha
+* **Círculo vazio** → tarefa **não feita**
+* **Círculo preenchido** → tarefa **concluída**
 
-Botão reagindo
+Essa regra consistente evita confusão e torna a experiência mais intuitiva.
 
-Isso mostra para o usuário onde ele está agindo naquele momento.
+---
 
-- Signos Metalinguísticos
-- 
-“Fazer uma atividade” funciona como instrução
+## 🔒 Signos Estáticos
 
-O ícone + “fala sozinho”: adiciona algo
+Elementos fixos que estruturam a tela:
 
-- Comunicabilidade 
- 
-O usuário não precisa pensar muito:
- Ele vê o “+” → entende que adiciona.
- Ele vê o círculo → entende que marca tarefa.
-Sem precisar procurar ajuda ou tutorial.
+* A lista
+* As bolinhas de marcação
+* O campo de digitar
+
+Eles mostram **como a tela funciona** e qual é sua organização básica.
+
+---
+
+## 🔄 Signos Dinâmicos
+
+Elementos que mudam conforme a interação do usuário:
+
+* A **borda que fica vermelha**
+* O **botão reagindo** ao toque
+
+Esses feedbacks visuais indicam onde o usuário está agindo no momento.
+
+---
+
+## 🗂 Signos Metalinguísticos
+
+* O texto **“Fazer uma atividade”** funciona como instrução direta.
+* O ícone **“+”** comunica por si só: *adicionar algo*.
+
+A tela se explica por meio dos próprios elementos.
+
+---
+
+## 💬 Comunicabilidade
+
+A comunicação da interface é imediata:
+
+* O usuário vê o **“+”** → entende que adiciona.
+* Vê o **círculo** → entende que marca tarefas.
+
+Não precisa de tutorial, ajuda ou esforço extra.
+A tela guia o uso de forma natural e intuitiva.
+
+---
+
 
 ## Tela 5
 <img width="426" height="520" alt="image" src="https://github.com/user-attachments/assets/d36f6031-6c67-4504-8029-719bfc4b000d" />
 
+# 📝 Explicação
 
+---
 
+## 🎨 Estilo dos Ícones e Explicação
 
-## Explicação
+Os ícones dessa tela são simples porque sua função principal é **facilitar a leitura** sem desviar a atenção.
 
-Estilo dos ícones e explicação
+* O **relógio** não precisa de detalhes: apenas o desenho básico já comunica imediatamente a ideia de *tempo*.
+* O uso da **cor vermelha** é proposital: vermelho chama atenção e destaca o elemento mais importante da tela.
 
-Os ícones dessa tela são simples porque a função deles é facilitar a leitura e não desviar a atenção.
+Esse estilo direto ajuda o usuário a entender o que está acontecendo sem esforço.
 
- O relógio, por exemplo, não precisa de detalhes: só o desenho básico já faz o usuário entender que aquilo tem a ver com tempo.
- 
- O uso da cor vermelha também é uma escolha importante: vermelho chama atenção, então torna óbvio onde o usuário precisa olhar primeiro.
+---
 
+## 🧩 Consistência Semântica
 
-- Consistência Semântica
- 
-O relógio aparece em outras telas também sempre relacionado ao tempo, então o usuário aprende rapidamente o significado.
+* O **relógio** aparece em outras telas sempre relacionado ao tempo, criando um significado estável.
+* O **ícone de menu** mantém sempre a função de *abrir opções*.
 
- O mesmo vale para o menu: onde ele aparecer, sempre vai significar “abrir opções”.
- 
- Isso evita aprendizado repetido. A pessoa não precisa descobrir o significado toda vez.
- 
-- Signos Estáticos
+Essa consistência evita que o usuário precise reaprender significados.
 
-São os elementos que não mudam sozinho:
+> A pessoa entende uma vez e reconhece sempre.
 
-Relógio
+---
 
-Cartão da meta
+## 🔒 Signos Estáticos
 
-“0/8”
+Elementos que **não mudam sozinhos**:
 
-Eles mostram a estrutura da tela e deixam claro qual é o objetivo principal.
+* Relógio
+* Cartão da meta
+* Texto **“0/8”**
 
-- Signos Dinâmicos
-  
-O número das sessões aumentando
+Eles revelam a estrutura da tela e deixam claro o objetivo principal: acompanhar o progresso da meta diária.
 
-A barrinha preenchendo
+---
 
- Esses elementos mostram que algo aconteceu, então o usuário percebe que sua ação teve efeito.
+## 🔄 Signos Dinâmicos
 
-- Signos Metalinguísticos
+Elementos que **mudam como resposta à ação do usuário**:
 
-O texto “Meta diária — 8 sessões”
+* O **número de sessões** aumentando
+* A **barrinha** sendo preenchida
 
-A visualização “0/8”
+Esses sinais mostram que algo ocorreu e que a ação do usuário teve efeito — feedback essencial.
 
-Esses elementos funcionam como explicação visual. Não precisa de tutorial: a tela já se explica.
+---
 
-- Justificativa pela Comunicabilidade
-  
-Os ícones aqui servem para comunicar intenções.
+## 🗂 Signos Metalinguísticos
 
- O relógio comunica que a tela é sobre tempo.
- 
- O cartão vermelho comunica prioridade.
- 
-Assim, o usuário não fica com dúvidas como:
+* O texto **“Meta diária — 8 sessões”**
+* A visualização **“0/8”**
 
- “Isso aqui é sobre o quê?” ou “Por onde começo?”
- 
- A tela praticamente “conversa” com a pessoa, guiando pelo visual.
+Esses elementos explicam visualmente como funciona a meta.
+A tela “se autoexplica”, sem precisar de instruções adicionais.
+
+---
+
+## 💬 Justificativa pela Comunicabilidade
+
+Os ícones têm papel claro na comunicação da interface:
+
+* O **relógio** comunica que a tela trata de *tempo*.
+* O **cartão vermelho** destaca prioridade e foco da tarefa.
+
+Isso evita dúvidas como:
+
+* “Isso aqui é sobre o quê?”
+* “Por onde começo?”
+
+A tela literalmente **guia o usuário pelo visual**, tornando a experiência intuitiva e fluida.
+
+---
+
 
 ## Tela 6
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ee6d267-3998-4bb3-83fe-202e7820d398" />
 
+# 🏆 Explicação
 
+## Metas e Conquistas
 
+---
 
-## Explicação
+## 🎨 Estilo
 
-Metas e Conquistas
+A interface usa **ícones simbólicos**, como:
 
-- Estilo
-  
-Ícones simbólicos (troféu, estrela, chama, alvo, braço, coroa).
+* 🏆 **Troféu**
+* ⭐ **Estrela**
+* 🔥 **Chama**
+* 🎯 **Alvo**
+* 💪 **Braço**
+* 👑 **Coroa**
 
- Esses símbolos são comuns e fáceis de entender.
- 
-- Consistência Semântica
-  
-Troféu sempre é conquista
+Esses símbolos são comuns e universalmente reconhecidos, facilitando a compreensão imediata.
 
-Chama sempre é sequência
+---
 
-Estrela sempre é algo especial
+## 🧩 Consistência Semântica
 
-Troféu sempre e ligado a prêmio
+Cada ícone mantém sempre o mesmo significado:
 
-Braço sempre remete a foco
+* 🏆 **Troféu** → conquista / prêmio
+* 🔥 **Chama** → sequência / constância
+* ⭐ **Estrela** → destaque / algo especial
+* 🎯 **Alvo** → meta
+* 💪 **Braço** → foco / disciplina
+* 👑 **Coroa** → meta importante / especial
 
-Coroa algo ou meta especial 
+Esses significados **nunca mudam**, permitindo aprendizado rápido e evitando confusão.
 
-Nunca mudam de sentido.
+---
 
-- Signos Estáticos
-  
-Cards
+## 🔒 Signos Estáticos
 
-Ícones
+Elementos fixos na interface:
 
-- Signos Dinâmicos
+* **Cards**
+* **Ícones**
 
-Barras enchendo
+Eles estruturam a tela e mostram o tipo de conteúdo exibido.
 
-Números aumentando
+---
 
-Mostram progresso.
+## 🔄 Signos Dinâmicos
 
-- Signos Metalinguísticos
-  
-Os nomes ajudam a entender o significado do ícone
+Elementos que mudam conforme o progresso:
 
-- Comunicabilidade
-  
-O usuário entende facilmente o que está avançando, o que falta e o que cada meta quer dizer.
+* **Barras enchendo**
+* **Números aumentando**
 
- Não fica perdido sobre seu progresso.
+Essas mudanças mostram evolução e reforçam que o usuário está avançando.
+
+---
+
+## 🗂 Signos Metalinguísticos
+
+Os **nomes** presentes nos cards ajudam a interpretar o significado dos ícones, funcionando como uma legenda visual natural.
+
+---
+
+## 💬 Comunicabilidade
+
+A tela comunica com clareza:
+
+* O que está avançando
+* O que falta completar
+* O significado de cada meta
+
+O usuário não se perde em relação ao próprio progresso — a interface explica tudo visualmente e sem esforço.
+
+---
+
 
 ## Tela 7
 <img width="445" height="510" alt="image" src="https://github.com/user-attachments/assets/f2d78686-0479-41e8-b0f7-6c0042aea5f9" />
 
 
+# 🎧 Explicação
 
+## Sons de Foco
 
-## Explicação
+---
 
- Sons de Foco
- 
-- Estilo
-  
-As ilustrações são simples e representativas: gota (chuva), onda (oceano),arvore (floresta), chama (fogo).
+## 🎨 Estilo
 
- Esse estilo é escolhido porque ajuda a pessoa a entender o som só olhando.
- 
-- Consistência Semântica
- 
-A gota nunca aparece para outra coisa além de chuva.
+As ilustrações são simples e diretamente representativas:
 
- A chama sempre representa fogo.
- 
- Nada troca de sentido.
- 
-- Signos Estáticos
-- 
-Desenhos dos sons
+* 💧 **Gota** → chuva
+* 🌊 **Onda** → oceano
+* 🌳 **Árvore** → floresta
+* 🔥 **Chama** → fogo
 
-Cards
+Esse estilo facilita a compreensão imediata:
 
-Mostram a estrutura dessa tela.
+> A pessoa entende o som apenas olhando o ícone.
 
-- Signos Dinâmicos
-  
-Play iniciando som
+---
 
-Botão liga/desliga
+## 🧩 Consistência Semântica
 
-Mostram o estado atual do sistema.
+Os ícones mantêm sempre o mesmo significado:
 
-- Signos Metalinguísticos
+* A **gota** nunca representa outra coisa além de chuva.
+* A **chama** é sempre fogo.
 
-Os desenhos dispensam explicação
+Nada troca de sentido, garantindo uso intuitivo.
 
-Os nomes reforçam
+---
 
-- Comunicabilidade
-  
-O usuário não precisa ler para saber qual som é qual.
+## 🔒 Signos Estáticos
 
- A imagem já diz tudo.
- 
- Isso evita dúvidas como:
- 
- “Que som é esse?” ou “Qual botão liga?”
+Elementos fixos da tela:
+
+* Desenhos dos sons
+* Cards
+
+Eles definem a estrutura visual da página.
+
+---
+
+## 🔄 Signos Dinâmicos
+
+Elementos que mudam conforme o uso:
+
+* **Play** iniciando o som
+* Botão de **liga/desliga**
+
+Essas mudanças mostram claramente o **estado atual do sistema**.
+
+---
+
+## 🗂 Signos Metalinguísticos
+
+* Os **desenhos** já explicam o significado por si mesmos.
+* Os **nomes** apenas reforçam a leitura, sem depender deles.
+
+---
+
+## 💬 Comunicabilidade
+
+O usuário não precisa ler para identificar cada som:
+
+* A imagem comunica tudo.
+* A interface evita dúvidas como:
+
+  * “Que som é esse?”
+  * “Qual botão liga?”
+
+A tela conversa com o usuário de forma visual, direta e eficiente.
+
+---
+
 
 
 ## Conclusão
