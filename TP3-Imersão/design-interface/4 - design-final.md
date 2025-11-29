@@ -90,3 +90,15 @@ O Modo Escuro está disponível em todas as telas do aplicativo (Timer, Sons e M
 ✔ Melhor contraste entre texto, ícones e fundo;
 
 ✔ Experiência mais acessível e personalizada.
+
+# Conclusão
+
+O protótipo desenvolvido apresenta uma solução visual clara, intuitiva e funcional para o aplicativo Foca & Revisa, com foco na organização dos estudos, aumento da produtividade e retenção de conteúdo por meio da Técnica Pomodoro, metas diárias e recursos sonoros.
+
+Mesmo sem funcionalidades lógicas implementadas (como iniciar o tempo, salvar dados ou reproduzir sons), as telas comunicam de forma eficiente como o usuário interagiria com o sistema, demonstrando coerência visual, estrutura funcional e boa navegabilidade.
+
+A interface foi construída com base em princípios de design estético, usabilidade, acessibilidade e comunicabilidade, garantindo uma experiência amigável tanto para iniciantes quanto para usuários mais avançados. A possibilidade de alternar entre modo claro e escuro reforça a preocupação com acessibilidade e conforto visual, sem alterar a experiência de uso ou a organização dos elementos.
+
+Além disso, a integração entre as telas — como a Tela de Metas influenciando diretamente o contador de metas na Tela Inicial (ex: 1/10, 3/10) — demonstra consistência, feedback visual e boa aplicação de heurísticas de interação.
+
+Portanto, este protótipo cumpre seu papel como representação de Design Final, simulando de forma comunicativa como o aplicativo funcionará futuramente, e servindo como base sólida para possíveis etapas seguintes, como implementação funcional, desenvolvimento em alta fidelidade ou testes com usuários.
