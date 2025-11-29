@@ -52,6 +52,8 @@ Heuristicas encontradas são:
 
 Figura 3 - Tela de Metas
 
+Heuristicas estudadas são:
+
 | Heurística                                    | Como aparece na tela                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------------------ |
 | **#1 – Visibilidade do estado**               | O usuário vê claramente as tarefas adicionadas, selecionadas e salvas.               |
