@@ -13,7 +13,6 @@ As interfaces foram desenvolvidas com foco em:
 
 # 1. Tela Inicial – Timer Pomodoro
 ![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 27_160e36cf](https://github.com/user-attachments/assets/bbcd9973-d1e2-4844-8bab-0f7b9055a507)
-
 Figura 1 - Timer Pomodoro
 
 A tela inicial concentra a principal funcionalidade do app: a técnica Pomodoro para focar nos estudos.
