@@ -21,15 +21,16 @@ Figura 1 - Timer Pomodoro
 A tela inicial concentra a principal funcionalidade do app: a técnica Pomodoro para focar nos estudos.
 ## Elementos principais:
 
+| Elemento                           | Função                                | Justificativa de design                                                 |
+| ---------------------------------- | ------------------------------------- | ----------------------------------------------------------------------- |
+| **Timer circular** com 25:00       | Exibe tempo restante de foco          | Mensagem clara e visual, reforça a contagem e o progresso               |
+| **Botão “Iniciar” (vermelho)**     | Inicia visualmente o cronômetro       | Botão com cor de destaque chamando para ação principal (Call-to-Action) |
+| **Indicador de Meta (1/10)**       | Mostra metas planejadas e concluídas  | Motivação e gamificação: feedback visual imediato                       |
+| **Ícone de menu lateral (☰)**      | Acesso a configurações e outras telas | Reconhecido universalmente, reflete um menu expandível                  |
+| **Ícone de troca de tema (☀️/🌙)** | Alterna entre modo claro e escuro     | Recurso de acessibilidade e preferência visual                          |
+| **Barra inferior de navegação**    | Alternar entre Início, Sons e Metas   | Facilita navegação; sempre visível e consistente                        |
+| **Logo Foca & Revisa**             | Identidade visual do app              | Gera confiança, familiaridade e coesão de marca                         |
 
-Elemento	                             / Função	                                    /Justificativa de design
-Timer circular com 25:00	/Exibe tempo restante de foco	/Mensagem clara e visual, reforça a contagem e o progresso
-Botão “Iniciar” (vermelho) /Inicia visualmente o cronômetro	/Botão com cor de destaque chamando para ação principal (Call-to-Action)
-Indicador de Meta (1/10)	/Mostra metas planejadas e concluídas	/Motivação e gamificação: feedback visual imediato
-Ícone de menu lateral (☰)	/Acesso a configurações e outras telas	/Reconhecido universalmente, reflete um menu expandível
-Ícone de troca de tema (☀️/🌙)	/Alterna entre modo claro e escuro	/Recurso de acessibilidade e preferência visual
-Barra inferior de navegação	/Alternar entre Início, Sons e Metas	/Facilita navegação; sempre visível e consistente
-Logo Foca & Revisa	/Identidade visual do app	/Gera confiança, familiaridade e coesão de marca
 
 
 # 2. Tela de Sons Ambientais
