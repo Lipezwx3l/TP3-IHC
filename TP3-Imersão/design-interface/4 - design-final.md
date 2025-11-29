@@ -21,7 +21,8 @@ Figura 1 - Timer Pomodoro
 A tela inicial concentra a principal funcionalidade do app: a técnica Pomodoro para focar nos estudos.
 ## Elementos principais:
 
-| Elemento                           | Função                                | Justificativa de design                                                 |
+
+| Elemento                           |         Funcões                      | Justificativa de design                                    |
 | ---------------------------------- | ------------------------------------- | ----------------------------------------------------------------------- |
 | **Timer circular** com 25:00       | Exibe tempo restante de foco          | Mensagem clara e visual, reforça a contagem e o progresso               |
 | **Botão “Iniciar” (vermelho)**     | Inicia visualmente o cronômetro       | Botão com cor de destaque chamando para ação principal (Call-to-Action) |
