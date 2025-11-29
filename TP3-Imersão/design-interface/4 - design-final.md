@@ -21,6 +21,7 @@ Figura 1 - Timer Pomodoro
 A tela inicial concentra a principal funcionalidade do app: a técnica Pomodoro para focar nos estudos.
 ## Elementos principais:
 
+
 | Elemento                           | Função                                | Justificativa de design                                                 |
 | ---------------------------------- | ------------------------------------- | ----------------------------------------------------------------------- |
 | **Timer circular** com 25:00       | Exibe tempo restante de foco          | Mensagem clara e visual, reforça a contagem e o progresso               |
@@ -30,6 +31,7 @@ A tela inicial concentra a principal funcionalidade do app: a técnica Pomodoro 
 | **Ícone de troca de tema (☀️/🌙)** | Alterna entre modo claro e escuro     | Recurso de acessibilidade e preferência visual                          |
 | **Barra inferior de navegação**    | Alternar entre Início, Sons e Metas   | Facilita navegação; sempre visível e consistente                        |
 | **Logo Foca & Revisa**             | Identidade visual do app              | Gera confiança, familiaridade e coesão de marca                         |
+
 
 # 2. Tela de Sons Ambientais
 ![Imagem do WhatsApp de 2025-11-28 à(s) 22 53 37_e234684f](https://github.com/user-attachments/assets/d0faa0da-629b-4d81-9931-285413730bc0)
