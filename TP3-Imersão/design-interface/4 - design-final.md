@@ -40,3 +40,12 @@ A tela inicial concentra a principal funcionalidade do app: a técnica Pomodoro 
 Figura 2 - Tela de Sons
 
 Tela para registrar e organizar os objetivos de estudo.
+
+| Elemento                                             | Função                                  | Justificativa de design                              |
+| ---------------------------------------------------- | --------------------------------------- | ---------------------------------------------------- |
+| **Ícone de alto-falante + título “Sons Ambientais”** | Identifica a função da tela             | Comunicação imediata e intuitiva                     |
+| **Cards com imagens (fogo, mar, chuva, vento)**      | Representam os tipos de som disponíveis | Uso de metáforas visuais (Design semântico)          |
+| **Botão Play ▶** em cada card                        | Simula acionamento do som               | Indica claramente a ação associada a cada card       |
+| **Layout em grade (2x2)**                            | Organização dos cards                   | Facilita toque e visualização; evita poluição visual |
+| **Barra inferior de navegação**                      | Permite voltar para Início ou Metas     | Consistência de navegação em todas as telas          |
+
